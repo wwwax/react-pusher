@@ -10,10 +10,6 @@
 }
 
 body {
-  color: red;
-}
-
-.greetings {
-  margin-top: 90px;
-  text-align: center;
+  font-family: consolas;
+  color: #333;
 }

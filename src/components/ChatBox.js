@@ -1,3 +1,5 @@
+import './ChatBox.css';
+
 export default function Chatbox({
   text = 'some text',
   username = 'Maxim',
