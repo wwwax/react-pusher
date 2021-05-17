@@ -1,0 +1,21 @@
+{
+  "files": {
+    "main.css": "/react-pusher/static/css/main.a9adb890.chunk.css",
+    "main.js": "/react-pusher/static/js/main.3c6ee865.chunk.js",
+    "main.js.map": "/react-pusher/static/js/main.3c6ee865.chunk.js.map",
+    "runtime-main.js": "/react-pusher/static/js/runtime-main.b5a08358.js",
+    "runtime-main.js.map": "/react-pusher/static/js/runtime-main.b5a08358.js.map",
+    "static/js/2.67b3fc94.chunk.js": "/react-pusher/static/js/2.67b3fc94.chunk.js",
+    "static/js/2.67b3fc94.chunk.js.map": "/react-pusher/static/js/2.67b3fc94.chunk.js.map",
+    "index.html": "/react-pusher/index.html",
+    "static/css/main.a9adb890.chunk.css.map": "/react-pusher/static/css/main.a9adb890.chunk.css.map",
+    "static/js/2.67b3fc94.chunk.js.LICENSE.txt": "/react-pusher/static/js/2.67b3fc94.chunk.js.LICENSE.txt",
+    "static/media/hacker.4124d026.png": "/react-pusher/static/media/hacker.4124d026.png"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.b5a08358.js",
+    "static/js/2.67b3fc94.chunk.js",
+    "static/css/main.a9adb890.chunk.css",
+    "static/js/main.3c6ee865.chunk.js"
+  ]
+}
