@@ -13,7 +13,6 @@ const pusher = new Pusher({
   key: '0082faa9fdf79271994d',
   secret: 'e5be75bdddb8a810b6bf',
   cluster: 'eu',
-  encrypted: true,
 });
 app.set('PORT', process.env.PORT || 5000);
 

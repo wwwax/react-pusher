@@ -20,7 +20,6 @@ export default class App extends Component {
     this.setState({ username });
     const pusher = new Pusher('0082faa9fdf79271994d', {
       cluster: 'eu',
-      encrypted: true,
     });
     const channel = pusher.subscribe('chat');
     channel.bind('message', (data) => {
@@ -45,7 +44,7 @@ export default class App extends Component {
     return (
       <div className='App'>
         <header className='App-header'>
-          <h1 className='App-title'>Welcome to React-Pusher Chat</h1>
+          <h1 className='App-title'>React-Pusher Chat</h1>
         </header>
         <section>
           <ChatList chats={this.state.chats} />

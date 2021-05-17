@@ -1,10 +1,6 @@
 import './ChatBox.css';
 
-export default function Chatbox({
-  text = 'some text',
-  username = 'Maxim',
-  handleTextChange = () => console.log('hello'),
-}) {
+export default function Chatbox({ text, username, handleTextChange }) {
   return (
     <div>
       <div className='row'>
